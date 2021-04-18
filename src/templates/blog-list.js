@@ -77,6 +77,7 @@ class BlogIndex extends React.Component {
             </ul>
 advertisement: 
 <p> <a href="https://www.ufabet1688.org" target="_blank">ufabet1688</a> </p> 
+<p> <a href="https://www.sattaking-online.in" target="_blank">www.sattaking-online.in</a> </p>
 
           </nav>
         </div>
