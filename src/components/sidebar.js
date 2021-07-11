@@ -20,8 +20,7 @@ const Sidebar = ({ siteMetadata }) => (
           </div>
           <div className="author-name">{siteMetadata.author}</div>
           <p>{siteMetadata.description}</p>
-   <p>Current cooperation with Nissan and the <a href="https://esporttalk.org/">ESPORTAL</a>  forum to support smaller and medium sized esports organisations. I worked on last year's MSI in the League of Legends</p>
-        </div>
+
       </header>
       <footer>
   
