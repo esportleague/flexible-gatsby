@@ -78,7 +78,7 @@ class BlogIndex extends React.Component {
 advertisement: 
 A website like <a href="https://casinobonus2.co">www.casinobonus2.co</a> will provide you with the highest quality in the industry.
  <a href="https://www.sattaking-online.in" target="_blank">www.sattaking-online.in</a> , <a href="https://www.ufascr.win" target="_blank">ufabet</a>,
-<a href="https://gangmanga.com" target="_blank">&#3629;&#3656;&#3634;&#3609;&#3585;&#3634;&#3619;&#3660;&#3605;&#3641;&#3609;</a> , <a href="https://www.mcasino1.website" target="_blank">www.mcasino1.website</a> <a href="https://dewata88.cc" target="_blank">learn more</a>, <a href="https://789lady.com" target="_blank">&#3648;&#3595;&#3655;&#3585;&#3595;&#3637;&#3656;&#3610;&#3634;&#3588;&#3634;&#3619;&#3656;&#3634;</a>
+<a href="https://gangmanga.com" target="_blank">&#3629;&#3656;&#3634;&#3609;&#3585;&#3634;&#3619;&#3660;&#3605;&#3641;&#3609;</a> , <a href="https://www.mcasino1.website" target="_blank">www.mcasino1.website</a>, <a href="https://789lady.com" target="_blank">&#3648;&#3595;&#3655;&#3585;&#3595;&#3637;&#3656;&#3610;&#3634;&#3588;&#3634;&#3619;&#3656;&#3634;</a>
 <a href="https://ugame66.com" target="_blank">ugame66</a>
           </nav>
         </div>
