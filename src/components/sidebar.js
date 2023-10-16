@@ -20,7 +20,7 @@ const Sidebar = ({ siteMetadata }) => (
           </div>
           <div className="author-name">{siteMetadata.author}</div>
           <p>{siteMetadata.description}</p>
-  
+  test
         </div>
       </header>
       <footer>
